@@ -1,0 +1,16 @@
+--------------------------------steps--------------------------------------
+
+
+1.install LAMP
+2.install kafka
+3.run the zookeeper by the command given in kafka.txt file.
+4.run the kafka server
+5.create topic for both input and output stream given in kafka.txt
+6.run the wordCount program by the command given in kafka.txt
+7.in order to run the php file paste them inside the /var/www/html folder
+8.run the "run1.sh" file by typing watch -n 10 <path to run1.sh file>
+9.run the consumer command from kafka.txt
+10. Open the index.php file in web browser
+11. submit data of your choice.
+12. View result in consumer cli. 
+
